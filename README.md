@@ -1,4 +1,4 @@
-# [Project 1: Coffee company data analysis](insert_link)
+![Coffee_screenshot](https://github.com/user-attachments/assets/3c83996d-baa5-4f93-b34b-8c150946ca8f)# [Project 1: Coffee company data analysis](insert_link)
 
 #### **Project Overview**
 The notebook is focused on analyzing a dataset related to a **coffee company** using Python, with the objective of generating insights to aid **business decision-making**. The analysis includes **sales performance across different quarters, regions, and product segments** to recommend whether certain products should be continued or discontinued.
@@ -43,3 +43,6 @@ The notebook is focused on analyzing a dataset related to a **coffee company** u
 - **Coffee B should be reconsidered** or **discontinued** due to poor revenue generation.
 - The **Enterprise segment needs strategic intervention** due to **negative revenue trends**.
 - **Seasonal trends should guide marketing efforts**, focusing on Q4 for maximizing sales.
+
+
+![Coffee_screenshot](https://github.com/user-attachments/assets/960d82f3-a8bd-4033-9cbb-adbc52b1920f)
